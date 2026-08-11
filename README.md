@@ -15,4 +15,4 @@ Core backend logic and database implementation for the **Student Attendance Moni
 
 ## 🎥 Demo Video
 Watch the full application walkthrough on YouTube:
-[![Watch the video]([https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg](https://youtu.be/flOq9kyzbSE))
+[![Watch the video](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/flOq9kyzbSE)
