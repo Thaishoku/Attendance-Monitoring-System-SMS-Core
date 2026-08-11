@@ -12,3 +12,7 @@ Core backend logic and database implementation for the **Student Attendance Moni
 - **Framework:** ASP.NET Core MVC
 - **ORM:** Entity Framework Core
 - **Third-Party API:** iProgSMS Gateway
+
+## 🎥 Demo Video
+Watch the full application walkthrough on YouTube:
+[![Watch the video]([https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg](https://youtu.be/flOq9kyzbSE))
